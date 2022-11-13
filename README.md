@@ -1,0 +1,1 @@
+# chess-nova-kladno-web
